@@ -7,6 +7,17 @@
       "sslPort": 44397
     }
   },
+  
+    "Kestrel": {
+      "Endpoints": {
+        "Http": {
+          "Url": "http://localhost:5070"
+        },
+        "Https": {
+          "Url": "https://localhost:5071"
+        }
+      }
+    },
   "profiles": {
     "ResumeWebsite": {
       "commandName": "Project",
