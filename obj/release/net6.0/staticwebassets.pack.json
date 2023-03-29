@@ -1,248 +1,420 @@
 {
   "Files": [
     {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\obj\\release\\net6.0\\scopedcss\\projectbundle\\ResumeWebsite.bundle.scp.css",
-      "PackagePath": "staticwebassets\\ResumeWebsite.bundle.scp.css"
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
     },
     {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\img\\carphelpssummer.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\carphelpssummer.jpg"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\img\\carphelpssummer_hs.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\carphelpssummer_hs.jpg"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\img\\fullsizerender_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\fullsizerender_1.jpg"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\img\\phelpsandsummerabout.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\phelpsandsummerabout.jpg"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\img\\phelpsholdingsummer.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\phelpsholdingsummer.jpg"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\img\\phelpshs.JPEG",
+      "PackagePath": "staticwebassets\\assets\\img\\phelpshs.JPEG"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\img\\phelpsrestaurant.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\phelpsrestaurant.jpg"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\img\\phelpsskilift.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\phelpsskilift.jpg"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\img\\phelpsskilift_hs.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\phelpsskilift_hs.jpg"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\img\\phelpssnowboard.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\phelpssnowboard.jpg"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\img\\phelpswithaleu.JPEG",
+      "PackagePath": "staticwebassets\\assets\\img\\phelpswithaleu.JPEG"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\img\\snowmoundwalkingphelps.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\snowmoundwalkingphelps.jpg"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\img\\walkinglefttoright.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\walkinglefttoright.jpg"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\img\\walkingtotheleft.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\walkingtotheleft.jpg"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\scss\\_general.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_general.scss"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\scss\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_header.scss"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\scss\\_hero.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_hero.scss"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\scss\\_sections.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_sections.scss"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.css"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.js"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\boxicons\\css\\animations.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\animations.css"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\boxicons\\css\\boxicons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\boxicons.css"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\boxicons\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\boxicons\\css\\transformations.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\transformations.css"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\glightbox\\css\\plyr.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\plyr.css"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\glightbox\\css\\plyr.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\plyr.min.css"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\isotope-layout\\isotope.pkgd.js"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\php-email-form\\php-email-form.php",
+      "PackagePath": "staticwebassets\\assets\\vendor\\php-email-form\\php-email-form.php"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\purecounter\\purecounter_vanilla.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\purecounter\\purecounter_vanilla.js"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\purecounter\\purecounter_vanilla.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\purecounter\\purecounter_vanilla.js.map"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\typed.js\\typed.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\typed.js\\typed.js"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\typed.js\\typed.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\typed.js\\typed.min.js"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\typed.js\\typed.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\typed.js\\typed.min.js.map"
+    },
+    {
+      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\assets\\vendor\\waypoints\\noframework.waypoints.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\waypoints\\noframework.waypoints.js"
     },
     {
       "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "PackagePath": "staticwebassets\\lib\\bootstrap"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
-    },
-    {
-      "Id": "C:\\projects\\practice\\ResumeWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
       "Id": "obj\\release\\net6.0\\staticwebassets\\msbuild.ResumeWebsite.Microsoft.AspNetCore.StaticWebAssets.props",
