@@ -1,0 +1,7 @@
+C:\projects\practice\ResumeWebsite\bin\release\net6.0\publish\ResumeWebsite.exe
+C:\projects\practice\ResumeWebsite\bin\release\net6.0\publish\appsettings.Development.json
+C:\projects\practice\ResumeWebsite\bin\release\net6.0\publish\appsettings.json
+C:\projects\practice\ResumeWebsite\bin\release\net6.0\publish\ResumeWebsite.dll
+C:\projects\practice\ResumeWebsite\bin\release\net6.0\publish\ResumeWebsite.deps.json
+C:\projects\practice\ResumeWebsite\bin\release\net6.0\publish\ResumeWebsite.runtimeconfig.json
+C:\projects\practice\ResumeWebsite\bin\release\net6.0\publish\ResumeWebsite.pdb
